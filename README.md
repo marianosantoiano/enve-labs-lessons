@@ -1,6 +1,6 @@
 # Enve Labs Lessons
 ## Links
-- [Docker Training](git@github.com:envelabs/enve-labs-docker-training.git)
+- [Docker Training](https://github.com/envelabs/enve-labs-docker-training.git)
 
 ## Índice
 
