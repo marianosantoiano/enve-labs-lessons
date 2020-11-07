@@ -1,5 +1,5 @@
-- ## [Sabado 24/10](http://github.com)
+- ## [Sábado 24/10](https://youtu.be/AgqTwDlEeJs)
 
-- ## Sabado 31/10
+- ## [Sábado 31/10](https://youtu.be/iYCwKSLDiBA)
 
 
