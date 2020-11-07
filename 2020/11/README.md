@@ -1,0 +1,1 @@
+- ## [Sábado 07/11](https://youtu.be/) - Docker Swarm Review
