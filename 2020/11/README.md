@@ -1,1 +1,2 @@
 - ## [Sábado 07/11](https://youtu.be/dlrqNuWOtYI) - Docker Swarm Review
+- ## [Sábado 28/11](https://youtu.be/XHlG-G8eHNY) - Kubernetes I
