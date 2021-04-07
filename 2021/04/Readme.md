@@ -1,1 +1,0 @@
-- ## [Sábado 03/04](https://youtu.be/tjpKBbEfITg) - AWS Review
