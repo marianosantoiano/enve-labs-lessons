@@ -1,3 +1,3 @@
 - ## [Sábado 01/05](https://youtu.be/iuOtEhAdq-M) - AWS Review V
 - ## [Sábado 08/05](https://youtu.be/rHAT9YSLwu4) - AWS Review VI / Terraform
-- ## [Sábado 15/05](https://youtu.be/X5kvOV2vj1w) - Terraform
+- ## [Sábado 15/05](https://youtu.be/X5kvOV2vj1w) - Terraform II
