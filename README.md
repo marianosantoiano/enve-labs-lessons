@@ -16,3 +16,4 @@
 - [AWS Review IV](https://github.com/marianosantoiano/enve-labs-lessons/tree/main/2021/04)
 - [AWS Review V](https://github.com/marianosantoiano/enve-labs-lessons/blob/main/2021/05)
 - [AWS Review VI / Terraform](https://github.com/marianosantoiano/enve-labs-lessons/blob/main/2021/05)
+- [AWS Review Terraform II](https://github.com/marianosantoiano/enve-labs-lessons/blob/main/2021/05)
