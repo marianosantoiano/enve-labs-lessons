@@ -20,3 +20,4 @@
 - [Terraform II](https://github.com/marianosantoiano/enve-labs-lessons/blob/main/2021/05)
 - [Terraform III](https://github.com/marianosantoiano/enve-labs-lessons/blob/main/2021/05)
 - [Terraform IV](https://github.com/marianosantoiano/enve-labs-lessons/tree/main/2021/06)
+- [Terraform V / AWS Review](https://github.com/marianosantoiano/enve-labs-lessons/tree/main/2021/06)
